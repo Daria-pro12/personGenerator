@@ -1,0 +1,43 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card {
+    background-color: #fce4b8;
+    border: 3px solid #FFCE70;
+    margin-top: 50px;
+    width: 600px;
+}
+
+.card-header {
+    background-color: #FFCE70;
+    font-size: 18px;
+}
+
+h3 {
+    color: #173E8C;
+}
+
+p {
+    margin: 20px 0;
+}
+
+button {
+    background-color: #4676D7;
+    color: white;
+    font-size: 16px;
+    padding: 8px 16px;
+    margin: 0px 15px;
+    border-radius: 7px;
+    border: none;
+    min-width: 150px;
+}
+
+button:hover {
+    background: #1d49aa;
+}
+
+button:focus {
+    outline: 0;
+    box-shadow: 0 0 0 4px #cbd6ee;
+}
